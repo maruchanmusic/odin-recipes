@@ -1,0 +1,16 @@
+
+body{
+    background-color: rgb(255, 214, 221);
+}
+
+h1.title{
+    font-size: 60px;
+    color: rgb(37, 182, 37);
+    font-family: Verdana, sans-serif;s
+    text-align: center;
+    text-shadow: 
+    -3px -3px 0 black,
+    -3px 3px 0 black,
+    3px 3px 0 black,
+    3px -3px 0 black;
+}
