@@ -3,14 +3,60 @@ body{
     background-color: rgb(255, 214, 221);
 }
 
-h1.title{
+img{
+    height: 300;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: green;
+    text-align: center;
+    }
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    text-decoration:wavy;
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+    color: black (144, 10, 10);
+    text-align: left;
+}
+
+li{
+    font-size: 18px;
+}
+
+#odinrecipes{
     font-size: 60px;
     color: rgb(37, 182, 37);
-    font-family: Verdana, sans-serif;s
+    font-family: Verdana, sans-serif;
     text-align: center;
     text-shadow: 
     -3px -3px 0 black,
     -3px 3px 0 black,
     3px 3px 0 black,
     3px -3px 0 black;
+}
+
+.indexrecipes{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(99, 246, 0);
+    font-weight: bold;
+    font-size: 20px;
 }
